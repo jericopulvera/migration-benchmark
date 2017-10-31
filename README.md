@@ -8,6 +8,9 @@ PHP Version
   Zend Engine v3.1.0, Copyright (c) 1998-2017 Zend Technologies
   with Zend OPcache v7.1.10, Copyright (c) 1999-2017, by Zend Technologies
 
+MySQL Version
+- mysql  Ver 15.1 Distrib 10.2.9-MariaDB, for Linux (x86_64) using readline 5.1
+
 Finished in 24.356024980545
 
 # Environment 2
