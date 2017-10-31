@@ -1,6 +1,6 @@
 
 # Environment 1
-- Linode VPS 4 Cores, 8gb Ram
+- Linode VPS 4 Cores, 8gb Ram, SSD
 
 PHP Version 
 - PHP 7.1.10 (cli) (built: Sep 27 2017 07:13:02) ( NTS )
@@ -14,7 +14,7 @@ MySQL Version
 Finished in 24.356024980545
 
 # Environment 2
-- Laravel Homestead Virtualbox 2 Cores, 2gb Ram
+- Laravel Homestead Virtualbox 2 Cores, 2gb Ram, HDD
 
 PHP Version 
 - PHP 7.1.7-1+ubuntu16.04.1+deb.sury.org+1 (cli) (built: Jul  7 2017 09:41:45) ( NTS )
@@ -30,7 +30,7 @@ Finished in 12.139708042145
 
 
 # Environment 3
-- Ubuntu 16.04 4 Cores, 8gb Ram
+- Ubuntu 16.04 4 Cores, 8gb Ram, HDD
 
 PHP Version 
 - PHP 7.1.10-1+ubuntu16.04.1+deb.sury.org+1 (cli) (built: Sep 29 2017 17:04:25) ( NTS )
