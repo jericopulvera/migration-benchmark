@@ -1,5 +1,5 @@
 
-# Environment
+# Environment 1
 - Linode VPS 4 Cores, 8gb Ram
 
 PHP Version 
@@ -10,7 +10,7 @@ PHP Version
 
 Finished in 24.356024980545
 
-# Environment
+# Environment 2
 - Laravel Homestead Virtualbox 2 Cores, 2gb Ram
 
 PHP Version 
@@ -26,7 +26,7 @@ MySQL Version
 Finished in 12.139708042145
 
 
-# Environment
+# Environment 3
 - Ubuntu 16.04 4 Cores, 8gb Ram
 
 PHP Version 
